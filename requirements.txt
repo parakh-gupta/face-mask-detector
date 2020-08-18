@@ -1,6 +1,0 @@
-Flask==1.1.2
-imutils==0.5.3
-numpy==1.19.0
-opencv-python==4.4.0.40
-pandas
-tensorflow==2.1.0
